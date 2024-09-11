@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: delete-your-pdf
+Version: 0.0.2
+Summary: Crop, Rotate, and extract text from your PDFs so you can delete them
+Home-page: https://github.com/DareFail/delete-your-pdf
+Author: James Steinberg
+Author-email: jamespsteinberg@gmail.com
+License-File: LICENSE
+Requires-Dist: pypdfium2
+Requires-Dist: pillow

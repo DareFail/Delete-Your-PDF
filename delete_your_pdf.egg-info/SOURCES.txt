@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+deleteYourPDF/__init__.py
+deleteYourPDF/actions.py
+delete_your_pdf.egg-info/PKG-INFO
+delete_your_pdf.egg-info/SOURCES.txt
+delete_your_pdf.egg-info/dependency_links.txt
+delete_your_pdf.egg-info/requires.txt
+delete_your_pdf.egg-info/top_level.txt
