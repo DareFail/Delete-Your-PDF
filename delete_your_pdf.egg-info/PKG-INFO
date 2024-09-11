@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: delete-your-pdf
-Version: 1.0.2
+Version: 1.0.3
 Summary: Crop, Rotate, and extract text from your PDFs so you can delete them
 Home-page: https://github.com/DareFail/delete-your-pdf
 Author: James Steinberg
@@ -16,7 +16,9 @@ Delete your PDF is a set of tools to export information from your PDFs so you ca
 
 Image files can be taken in as both base64 strings or BytesIO objects
 
-[https://pypi.org/project/delete-your-pdf/](https://pypi.org/project/delete-your-pdf/)
+Pip Library: [https://pypi.org/project/delete-your-pdf/](https://pypi.org/project/delete-your-pdf/)
+
+Pip Repo: [https://github.com/darefail/Delete-Your-PDF](https://github.com/darefail/Delete-Your-PDF)
 
 ## Live Demo
 

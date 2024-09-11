@@ -6,7 +6,7 @@ this_directory = Path(__file__).parent
 long_description = (this_directory / "README.md").read_text()
 
 setup(name='delete-your-pdf',
-    version='1.0.2',
+    version='1.0.3',
     description='Crop, Rotate, and extract text from your PDFs so you can delete them',
     author='James Steinberg',
     author_email='jamespsteinberg@gmail.com',
