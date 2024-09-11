@@ -4,7 +4,9 @@ Delete your PDF is a set of tools to export information from your PDFs so you ca
 
 Image files can be taken in as both base64 strings or BytesIO objects
 
-[https://pypi.org/project/delete-your-pdf/](https://pypi.org/project/delete-your-pdf/)
+Pip Library: [https://pypi.org/project/delete-your-pdf/](https://pypi.org/project/delete-your-pdf/)
+
+Pip Repo: [https://github.com/darefail/Delete-Your-PDF](https://github.com/darefail/Delete-Your-PDF)
 
 ## Live Demo
 
